@@ -83,4 +83,4 @@ sudo calamaris -a /var/log/squid/access.log
 You can also configure it to generate daily reports automatically.
 
 This setup now includes Squid with Webmin for a user-friendly GUI to monitor and configure the proxy, along with Calamaris for generating Squid log reports to analyze usage and performance.
-# Faltu-project-ideas
+
